@@ -1,0 +1,10 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "default": {
+    "semi": "采用分号",
+    "singleQuote": "采用单引号",
+    "tabWidth": "tab采用两个空格长度"
+  }
+}
